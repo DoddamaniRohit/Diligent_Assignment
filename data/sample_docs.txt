@@ -1,0 +1,9 @@
+Jarvis is a personal AI assistant designed to help users by answering questions.
+
+Vector databases store data in numerical format which helps in semantic search.
+
+LLaMA is a large language model developed by Meta and can be self-hosted.
+
+Pinecone is a vector database used for storing and retrieving embeddings efficiently.
+
+Streamlit is a Python framework used to build simple web applications.
