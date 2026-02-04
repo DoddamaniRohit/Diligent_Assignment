@@ -6,8 +6,8 @@ from llm_helper import ask_llama
 st.title(" Jarvis - Personal AI Assistant")
 
 pinecone.init(
-    api_key="YOUR_PINECONE_API_KEY",
-    environment="YOUR_ENV"
+    api_key="pcsk_E8U2x_AWW4bTD3dHLuX9cF134D5P6oXaauat67iMLd8fDQYSbhZd8PhGYTgwgSvp5bMaP",
+    environment="gcp-starter"
 )
 
 index = pinecone.Index("jarvis-index")
